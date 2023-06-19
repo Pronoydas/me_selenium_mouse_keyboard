@@ -1,0 +1,1 @@
+java -cp "lib/*:bin/test/" org.testng.TestNG src/test/java/testng.xml
